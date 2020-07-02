@@ -18,6 +18,7 @@ public class MercadoLibre {
         // TODO code application logic here
         JFramePrincipal principal= new JFramePrincipal();
         principal.show();
+        System.out.println("Hola");
     }
     
 }
