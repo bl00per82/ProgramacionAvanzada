@@ -19,6 +19,7 @@ public class MercadoLibre {
         JFramePrincipal principal= new JFramePrincipal();
         principal.show();
         System.out.println("Hola");
+        System.out.println("Sí funciona el GitHub, pero no tanto como el Pornhub");
     }
     
 }
